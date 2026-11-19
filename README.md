@@ -4,7 +4,7 @@
 ### I'm coding in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,windows,html,css,js,java,arduino,dotnet,kotlin,raspberrypi"
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,windows,html,css,js,java,arduino,dotnet,kotlin,raspberrypi,linux,pycharm,nodejs"
  />
   </a>
 </p>
